@@ -1,4 +1,4 @@
-- 👋 Hi,
+👋 Hi,
 
 I am an IT Professional with a deep interest in software testing and automation.
 
